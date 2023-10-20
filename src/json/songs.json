@@ -1,0 +1,133 @@
+{
+    "songs": [
+        {
+            "name": "Suena el Shofar",
+            "verse": [
+                {
+                    "chords": "A# C Dm-Dm-C-Dm",
+                    "lyric": "Suena el Shofar y tu pueblo es convocado"
+                },
+                {
+                    "chords": "A# C Dm",
+                    "lyric": "En la asamblea Santa se reúne a celebrar"
+                },
+                {
+                    "chords": "A# C Dm-Dm-C-Dm",
+                    "lyric": "Dándote la gloria el honor y la alabanza"
+                },
+                {
+                    "chords": "A# C Dm",
+                    "lyric": "Dándote la gloria,   dándote el honor."
+                },
+                {
+                    "chords": "A# C Dm-Dm-C-Dm",
+                    "lyric": "Sea hecha tu voluntad como se hace en el cielo"
+                },
+                {
+                    "chords": "A# C Dm",
+                    "lyric": "Multitudes cantando y celebrando tu poder"
+                },
+                {
+                    "chords": "A# C Dm-Dm-C-Dm",
+                    "lyric": "que tu gloria descienda cuando tu pueblo se encienda"
+                },
+                {
+                    "chords": "A# C Dm",
+                    "lyric": "Dándote la gloria,   dándote el poder."
+                },
+                {
+                    "chords": "A# Gm Asus A",
+                    "lyric": "Dándote la gloria,   dándote el poder."
+                }
+            ],
+            "chorus": [
+                {
+                    "chords": "Dm-C-A#-A",
+                    "lyric": "Que descienda tu gloria //"
+                },
+                {
+                    "chords": "                     Dm-C-A#-Asu ",
+                    "lyric": "Que descienda tu gloria, que descienda aquí."
+                }
+            ]
+        },
+        {
+            "name": "Remolineando",
+            "verse": [
+                {
+                    "chords": "Cm",
+                    "lyric": "Hay muchas formas de alabar Tu nombre"
+                },
+                {
+                    "chords": "Bb Cm",
+                    "lyric": "y de exaltarte oh Jehova"
+                },
+                {
+                    "chords": "G#  - Bb  - Cm",
+                    "lyric": "hay muchas formas de magnificarte"
+                },
+                {
+                    "chords": "Bb Cm",
+                    "lyric": "pero ahora lo are asi//"
+                }
+            ],
+            "chorus": [
+                {
+                    "chords": " Cm                       ",
+                    "lyric": "remolineando, remolineando"
+                },
+                {
+                    "chords": "Bb Cm ",
+                    "lyric": " celebrare a Jehova"
+                },
+                {
+                    "chords": "Cm",
+                    "lyric": "remolineando, remolineando"
+                },
+                {
+                    "chords": "Bb G Cm",
+                    "lyric": "me hare mas vil por causa de Jehova"
+                }
+            ]
+        },
+        {
+            "name": "Alla en Jerusalem",
+            "verse": [
+                {
+                    "chords": "Cm",
+                    "lyric": "Aqui en Jerusalén la tumba esta vacía"
+                },
+                {
+                    "chords": "Bb -     Gm -    Cm  ",
+                    "lyric": "Porque    el    resucito//"
+                },
+                {
+                    "chords": "G#  - Bb  - Cm",
+                    "lyric": "El no esta muerto resucito pues "
+                },
+                {
+                    "chords": "Bb Cm",
+                    "lyric": "pero ahora lo are asi//"
+                }
+            ],
+            "chorus": [
+                {
+                    "chords": " Cm                       ",
+                    "lyric": "remolineando, remolineando"
+                },
+                {
+                    "chords": "Bb Cm ",
+                    "lyric": " celebrare a Jehova"
+                },
+                {
+                    "chords": "Cm",
+                    "lyric": "remolineando, remolineando"
+                },
+                {
+                    "chords": "Bb G Cm",
+                    "lyric": "me hare mas vil por causa de Jehova"
+                }
+            ]
+        }
+    ]
+}
